@@ -5,3 +5,5 @@ iiiiijjjjj
 
 
 kolejny commit
+
+nowa funkcjonalnosc zrobiona
