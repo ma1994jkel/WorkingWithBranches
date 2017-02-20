@@ -7,3 +7,4 @@ iiiiijjjjj
 kolejny commit
 
 nowa funkcjonalnosc zrobiona
+kolejna funkcja
