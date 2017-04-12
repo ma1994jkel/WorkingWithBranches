@@ -1,5 +1,4 @@
 jjjjjjjjjjjj+++++++++jjjjjjjjjjjjj+++++
-
 iiiiijjjjjj
-
 kolejna funkcja w innym pliku
++refactor
