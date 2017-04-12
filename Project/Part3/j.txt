@@ -1,4 +1,5 @@
 jjjjjjjjjjjj+++++++++jjjjjjjjjjjjj+++++
+feature2
 iiiiijjjjjj
-
 kolejna funkcja w innym pliku
++refactor
